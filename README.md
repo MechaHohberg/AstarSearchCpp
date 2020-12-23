@@ -8,11 +8,11 @@ This repo contains my final version for the Route Planning project provided by U
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 ```
-git clone https://github.com/LambdaHohberg/UdacityCpp.git --recurse-submodules
+git clone https://github.com/MechaHohberg/AstarSearchCpp.git --recurse-submodules
 ```
 or with SSH:
 ```
-git clone https://github.com/LambdaHohberg/UdacityCpp.git --recurse-submodules
+git clone https://github.com/MechaHohberg/AstarSearchCpp.git --recurse-submodules
 ```
 
 ## Dependencies for Running Locally
